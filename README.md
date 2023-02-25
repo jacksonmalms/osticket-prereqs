@@ -330,7 +330,7 @@ Then on ost-config.php go to Properties -> Security -> Advanced -> click Everyon
 
 Click OK.
 
-Congradualtions, you have made it to the end of this part of the tutorial! Now keep the VM and osTicket open, then move on to the post installation setup tutorial.
+Congratulations, you have made it to the end of this part of the tutorial! Now keep the VM and osTicket open, then move on to the post installation setup tutorial.
 The link to that tutorial is linked below.
 
 - [osTicket: Post-Installation Configuration](https://github.com/jacksonmalms/post-install-config)
