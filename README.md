@@ -5,9 +5,9 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. It is optional to deploy this inside of a Windows 10 Azure VM, you can do it on your own machine if you like, but I would suggest trying it in an Azure VM or at least something like VirtualBox first. A link to a tutorial for setting up VMs in Azure will be listed below, just follow that tutorial until you get to the part where you create the Windows 10 VM. I also recomend using 4 vCPUs for that VM.</p>
 
-Side note: this tutorial is really designed to learn how to setup and use osTicket, in a real world environment there is obviously going to be a need for further customization so I wouldn't suggest using this tutorial to actually set up a ticketing system for a real company, but rather for beginners to learn from.</p>
-
 - [How to Setup VMs and a Virtual Network in Azure](https://github.com/jacksonmalms/create-azure-vm)
+
+Side note: this tutorial is really designed to learn how to setup and use osTicket, in a real world environment there is obviously going to be a need for further customization so I wouldn't suggest using this tutorial to actually set up a ticketing system for a real company, but rather for beginners to learn from.</p>
 
 Also go ahead and open this Google Drive folder containing the installation files, we will open this in the VM to download and set these up later.
 
