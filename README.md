@@ -46,7 +46,7 @@ Also go ahead and open this Google Drive folder containing the installation file
 <img src="https://i.imgur.com/nIsq2Qb.png"/>
 </p>
 <p>
-First we are going want to RDP into our VM (if you are going to use on). Just find the public IP of the VM and connect with RDP.
+First we are going want to RDP into our VM (if you are going to use one). Just find the public IP of the VM and connect with RDP.
 </p>
 <br />
 
@@ -123,7 +123,7 @@ Download and install mysql-5.5.62-win32.msi
 - Launch Configuration Wizard (after install) ->
 - Standard Configuration ->
 - Next ->
-- Password1 (root will be the username, but you dont need to set that up) ->
+- Password1 (root will be the username, but you don't need to set that up) ->
 - Execute 
 
 </p>
@@ -159,7 +159,7 @@ Restart the IIS server as per the image above.
 <img src="https://i.imgur.com/VCrGYgY.png"/>
 </p>
 <p>
-Now open two seperate file explorer windows and on one navigate to the downloads folder and click on osTicket-v1.15.8, and on the other window open up your C:/ drive.
+Now open two separate file explorer windows and on one navigate to the downloads folder and click on osTicket-v1.15.8, and on the other window open up your C:/ drive.
 </p>
 <br />
 
@@ -193,7 +193,7 @@ On the right hit Browse *:80 and you should see the osTicket installer open insi
 <img src="https://i.imgur.com/QqUA0PL.png"/>
 </p>
 <p>
-Go back to IIS Manager, osTicket-VM -> Sites -> Default Web Site -> click osTicket, then click on "Enable or disable an extention".
+Go back to IIS Manager, osTicket-VM -> Sites -> Default Web Site -> click osTicket, then click on "Enable or disable an extension".
 </p>
 <br />
 
